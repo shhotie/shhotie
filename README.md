@@ -1,5 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Ftechnology-background-gifs&psig=AOvVaw0DWcfppDVE_1EF0xAW8wl3&ust=1681848304354000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiO6Kfbsf4CFQAAAAAdAAAAABAF
-
+![FSD](https://user-images.githubusercontent.com/113897763/232605265-f9a2c653-ba53-4fe8-b2ff-e08b5f2ad83a.jpg)
 ### Hello there, I am Swati 👋
 
 <!--
