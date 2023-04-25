@@ -21,23 +21,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...shhottie
 
 <p align="center">
-<br>
-<a href="https://github.com/shhotie"><img alt=" " src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<!-- <br>
+<a href="https://github.com/shhotie"><img alt=" " src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp; -->
 <a href="https://www.instagram.com/shhotie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/swati-wanjari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:swatiwanjari2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <br>
 
-<!-- <p align="center">
-    <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<p align="center">
+    <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=shhotie&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 <br>
 <br>
-  <a href="https://stackoverflow.com/users/9066997/ajinkya-bodade">
+  <a href="https://stackoverflow.com/users/21658551/swati-wanjari">
      <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
   </a>
 </p>
-<br> -->
+<br>
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
