@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: ...shhottie
-
 <p align="center">
 <!-- <br>
 <a href="https://github.com/shhotie"><img alt=" " src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp; -->
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   <a href="https://stackoverflow.com/users/21658551/swati-wanjari">
-     <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
+     <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21658551&theme=dark" />
   </a>
 </p>
 <br>
