@@ -1,5 +1,7 @@
 ![FSD](https://user-images.githubusercontent.com/113897763/232605265-f9a2c653-ba53-4fe8-b2ff-e08b5f2ad83a.jpg)
-### Hello there, I am Swati 👋
+<p>
+  <h1 align="center"><b>Hello there, I'm Swati 👋</b></h1>
+</p>
 
 <!--
 **shhotie/shhotie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: swatiwanjari2@gmail.com
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() 
-<p>
-  <h1 align="center"><b>Hello there, I'm Ajinkya 👋</b></h1>
-</p>
 
 
 <p align="center">
 <br>
-<a href="https://ajinkyabodade.github.io"><img alt=" " src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
-<a href="https://www.instagram.com/ajinkya_bodade/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ajinkya-bodade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bodadeajinkya@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!-- <a href="https://github.com/shhotie"><img alt=" " src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp; -->
+<a href="https://www.instagram.com/shhotie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/swati-wanjari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:swatiwanjari2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 <br>
 <br>
@@ -40,7 +37,7 @@ Here are some ideas to get you started:
      <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
   </a>
 </p>
-<br>
+<br> -->
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
