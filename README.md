@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <a href="mailto:swatiwanjari2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shhotie&label=Profile%20views&color=0e75b6&style=flat" alt="shhotie" /> 
+
+</p>
 
 <p align="center">
     <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=shhotie&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
