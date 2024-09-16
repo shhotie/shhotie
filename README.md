@@ -1,4 +1,3 @@
-![FSD](https://user-images.githubusercontent.com/113897763/232605265-f9a2c653-ba53-4fe8-b2ff-e08b5f2ad83a.jpg)
 <p>
   <h1 align="center"><b>Hello there, I'm Swati 👋</b></h1>
 </p>
