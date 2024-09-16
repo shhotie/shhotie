@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 <p align="center">
     <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=shhotie&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 <br>
-<br>
+<!-- <br>
   <a href="https://stackoverflow.com/users/21658551/swati-wanjari">
      <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21658551&theme=dark" />
   </a>
 </p>
-<br>
+<br> -->
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
